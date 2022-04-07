@@ -1,0 +1,11 @@
+How to add user in JIRA
+-Go to Settings ➡ User Management ➡ Users ➡ Create User 
+
+How to create groups in JIRA
+-Go to Settings ➡ User Management ➡ Groups ➡ Create Group
+
+How to add user to a group
+-Go to Settings ➡ User Management ➡ Groups ➡ click on a group ➡ Add "Username"
+
+How to create a project
+-Go to Projects ➡ Create Project ➡ Choose the correct template ➡ Select the name and the key ➡ Submit 
