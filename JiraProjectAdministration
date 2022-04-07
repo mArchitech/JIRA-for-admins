@@ -1,0 +1,32 @@
+Overview of the Project Settings
+Go to your Project ➡ Project Settings ➡ Summary
+
+Modifying users and roles
+Go to your Project ➡ Project Settings ➡ Users and Roles ➡ Add users to a role ➡ Fill in details of which user which role ➡ Add
+
+Modifying user permissions in Project
+Go to your Project ➡ Project Settings ➡ Permissions Select Permission and edit ➡ Grant
+
+Deleting Project 
+Go to your Project ➡ Project Settings ➡ Actions ➡ Delete Project
+
+Creating Issue
+Create Issue➡ Select Project and Issue type ➡ Fill in details of the issue ➡ Add
+
+Creating Issue Type
+Go to Project Settings ➡ Issues ➡ Issue types  ➡ Add Issue Type ➡ Fill in details of the type ➡ Add
+
+Apply issue to a project
+From Issues ➡ Issue type schemes ➡ Choose scheme you want modify ➡ Edit ➡ Fill in details of the scheme ➡ Save 
+
+Creating Status to the issue
+From Issues  ➡ Issue attributes ➡ Statuses  ➡ Add Status ➡ Fill in details of the status ➡ Add
+
+Creating Workflows
+From Issues ➡  Workflows ➡ Add Workflow ➡ Fill in details of the workflow ➡ Add
+
+Creating Custom Fields
+From Issues ➡  Fields ➡ Custom Fields ➡ Add custom field ➡ Fill in details of the field ➡ Create
+
+Adding to the Screen
+From Issues ➡  Screens ➡ Select Screen ➡ Click the Select tap ➡ Update
